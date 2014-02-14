@@ -1,0 +1,10 @@
+     17  cd Project01/
+     18  cd ..
+     18  cd cs215s14/
+     19  vi churchmanP1.cpp
+     25  vi Lab05.h
+     30  g++ Lab05.cpp -o L05.out
+     83  ./a.out
+    115  g++ P1.cpp
+    135  ls
+    138  vi P1.cpp
